@@ -541,6 +541,33 @@
           ]
         }
       }
+    },
+    "seoyeon": {
+      "topics": {
+        "홈트추천": {
+          "key": "홈트추천",
+          "title": "서연 · 홈트 추천템",
+          "updated": "2026-07-07",
+          "links": [
+            {
+              "title": "① 안 흘러내리는 레깅스 · [하루마켓] 여성 스포츠 브라탑 숏레깅스 세",
+              "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8849947&pageKey=9521966664&itemId=28386591156&vendorItemId=95338143532&traceid=V0-153-c08526509109dbbd&requestid=20260707142919265226351116&token=31850C%7CGM"
+            },
+            {
+              "title": "② 운동 후 폼롤러 · 런룩스 마사지스틱 승모근 종아리 시원한 마사",
+              "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8849947&pageKey=9448688764&itemId=28107174814&vendorItemId=95066237071&traceid=V0-153-99012dfd73671970&clickBeacon=cddc8c10-79c4-11f1-946b-5de834624334%7E3&requestid=20260707142919876264677943&token=31850C%7CMIXED"
+            },
+            {
+              "title": "③ 논슬립 요가매트 · Hommy Nest TPE 요가매트 필라테스",
+              "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8849947&pageKey=9099540980&itemId=27560420483&vendorItemId=94524468785&traceid=V0-153-7929ffe14bd20b66&clickBeacon=ce238020-79c4-11f1-b719-e9f2b634294d%7E3&requestid=20260707142920339019359028&token=31850C%7CMIXED"
+            },
+            {
+              "title": "④ 글루트 밴드 · 에이블민 탄력 힙업 루프밴드 5종 세트, 1",
+              "url": "https://link.coupang.com/re/AFFSDP?lptag=AF8849947&pageKey=9197558643&itemId=27152314297&vendorItemId=94120134693&traceid=V0-153-c80f4333d30ea692&clickBeacon=ce89bc00-79c4-11f1-b233-db7ceb41c7ec%7E3&requestid=20260707142921018019359145&token=31850C%7CMIXED"
+            }
+          ]
+        }
+      }
     }
   }
 }
