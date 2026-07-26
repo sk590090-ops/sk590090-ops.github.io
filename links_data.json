@@ -1714,20 +1714,24 @@
         },
         "toss_fan_summer": {
           "key": "toss_fan_summer",
-          "title": "🌀 여름 손선풍기 특가 3종 (토스)",
-          "updated": "2026-07-18",
+          "title": "🌀 여름 손선풍기 특가 4종 (토스)",
+          "updated": "2026-07-26",
           "links": [
             {
-              "title": "휘릭 맥세이프 선풍기 FR-MF001 (화이트)",
+              "title": "휘릭 맥세이프 선풍기 FR-MF001 (핸즈프리·110g)",
               "url": "https://toss.im/_m/BCk7bIGa"
             },
             {
-              "title": "지수라이프 Handheld Fan Life9 (크롬)",
+              "title": "지수라이프 Handheld Fan Life9 (강풍 10m/s·5000mAh)",
               "url": "https://toss.im/_m/FUY7MiVz"
             },
             {
-              "title": "한경희 터보 냉각 손선풍기 HF-T50F (러블리핑크)",
+              "title": "한경희 터보 냉각 손선풍기 HF-T50F (냉각판·71% 특가)",
               "url": "https://toss.im/_m/7sSE5yst"
+            },
+            {
+              "title": "프롬비 터보 넥쿨러선풍기 FG258 (목걸이형·완전 핸즈프리)",
+              "url": "https://toss.im/_m/pOuKLIBs"
             }
           ]
         },
